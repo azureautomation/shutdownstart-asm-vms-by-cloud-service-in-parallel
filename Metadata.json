@@ -1,0 +1,20 @@
+{
+    "Author": "Gisela Torres",
+    "ContentSize": 1029,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/shutdownstart-asm-vms-by-cloud-service-in-parallel/master/Shutdown-Start-ASM-VMs-Parallel.ps1",
+    "DownloadCount": 992,
+    "Id": "ShutdownStart-ASM-VMs-by-f6b8d838",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 594,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-12-13T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "It shutdowns/starts ASM virtual machines by Cloud Service in parallel.It has two parameters: the service name and the action you want to perform (shutdown (true) or start (false) your VMs).You have to create a Credential Asset with the name\u00a0DefaultAzureCredential\u00a0in order to acce",
+    "Title": "Shutdown/Start ASM VMs by Cloud Service in parallel",
+    "UpdatedDate": "2015-12-13T00:00:00",
+    "Url": "https://github.com/azureautomation/shutdownstart-asm-vms-by-cloud-service-in-parallel",
+    "UserTags": "Utility, Windows Azure Virtual Machines, Azure Automation"
+}
